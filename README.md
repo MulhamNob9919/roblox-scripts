@@ -132,6 +132,12 @@ https://www.roblox.com/games/3759927663/
 ### !! SIMPLESPY SUPPORTS ALL GAMES !!
 
 ##
+
+##
+
+### !! HOHOHUB SUPPORTS [BLOXFRUITS](www.roblox.com/games/2753915549/UPDATE-Blox-Fruits) !!
+
+##
    
 
 ### EXECUTORS
