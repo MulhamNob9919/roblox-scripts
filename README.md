@@ -1,6 +1,7 @@
 # ROBLOX-SCRIPTS
 
 ### Scripts Available
+
 1. OwlHub
-2.SimpleSpy
+2. SimplSpy
 (More Coming Soon)
