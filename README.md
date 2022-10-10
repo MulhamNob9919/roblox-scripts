@@ -4,7 +4,7 @@
 ### Scripts Available
 
 1. OwlHub
-2. SimplSpy
+2. SimpleSpy
 (More Coming Soon)
 
 
@@ -130,10 +130,10 @@ https://www.roblox.com/games/3759927663/
 
 ### EXECUTORS
 
-[SynapseX](https://x.synapse.to/) - paid
+[SynapseX](https://x.synapse.to/) - paid - doesnt need key
 
-[Sentiel](https://painexist.gg/) - paid
+[Sentiel](https://painexist.gg/) - paid - doesnt need key
 
-[SirHurt](https://sirhurt.net/) - paid
+[SirHurt](https://sirhurt.net/) - paid - doesnt need key
 
-[KRNL](https://krnl.place/) - free
+[KRNL](https://krnl.place/) - free - needs key
