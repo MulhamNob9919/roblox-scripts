@@ -126,6 +126,14 @@ https://www.roblox.com/games/3759927663/
 
 ### !! SIMPLESPY SUPPORTS ALL GAMES
 
-#### EXECUTORS
+## ---------------------
+
+### EXECUTORS
+
+[SynapseX](https://x.synapse.to/)
+
+[Sentiel](https://painexist.gg/)
+
+[SirHurt](https://sirhurt.net/)
 
 [KRNL](https://krnl.place/) - free
