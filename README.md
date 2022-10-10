@@ -130,10 +130,10 @@ https://www.roblox.com/games/3759927663/
 
 ### EXECUTORS
 
-[SynapseX](https://x.synapse.to/)
+[SynapseX](https://x.synapse.to/) - paid
 
-[Sentiel](https://painexist.gg/)
+[Sentiel](https://painexist.gg/) - paid
 
-[SirHurt](https://sirhurt.net/)
+[SirHurt](https://sirhurt.net/) - paid
 
 [KRNL](https://krnl.place/) - free
