@@ -5,7 +5,8 @@
 ### Scripts Available
 
 1. OwlHub
-2. SimpleSpy
+2. SimpleSpy 
+3. HohoHub
 (More Coming Soon)
 
 ##
@@ -138,7 +139,7 @@ https://www.roblox.com/games/3759927663/
 ### !! HOHOHUB SUPPORTS [BLOXFRUITS](www.roblox.com/games/2753915549/UPDATE-Blox-Fruits) !!
 
 ##
-   
+    
 
 ### EXECUTORS
 
@@ -151,3 +152,4 @@ https://www.roblox.com/games/3759927663/
 [KRNL](https://krnl.place/) - free - needs key
 
 ##
+ 
