@@ -1,9 +1,4 @@
---====================================================================--
---||					   SCRIPT BY: BARTVANM                      ||--
---====================================================================--
-
-
--- Variables:
+--Variables:
 moneyToggle = false
 AimbotToggle = false
 espToggle = false
