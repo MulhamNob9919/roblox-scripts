@@ -7,6 +7,10 @@
 1. OwlHub
 2. SimpleSpy 
 3. HohoHub
+4. Zombie Attack
+5. Mheehub
+6. Big Paitball Aimbot
+7. Knife Simulator
 
 (More Coming Soon)
 
@@ -138,6 +142,12 @@ https://www.roblox.com/games/3759927663/
 ##
 
 ### !! HOHOHUB SUPPORTS [BLOXFRUITS](www.roblox.com/games/2753915549/UPDATE-Blox-Fruits) !!
+
+##
+
+##
+
+### !! EVERY SCRIPT HAS THE NAME OF THE GAME EXCEPT HUBS AND PREMIUM SCRIPTS !!
 
 ##
     
