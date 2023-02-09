@@ -11,6 +11,9 @@
 5. Mheehub
 6. Big Paitball Aimbot
 7. Knife Simulator
+8. Anime Dimensions
+9. Base Battles
+10. Bitcoin Simulator
 
 (More Coming Soon)
 
@@ -147,10 +150,9 @@ https://www.roblox.com/games/3759927663/
 
 ##
 
-### !! EVERY SCRIPT HAS THE NAME OF THE GAME EXCEPT HUBS AND PREMIUM SCRIPTS !!
+### !! EVERY SCRIPT HAS THE NAME OF THE GAME EXCEPT HUBS AND SEMI-PREMIUM SCRIPTS !!
 
 ##
-    
 
 ### EXECUTORS
 
